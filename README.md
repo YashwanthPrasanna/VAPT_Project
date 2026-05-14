@@ -27,7 +27,7 @@ ifconfig
 
 ---
 
-### 1. Reconnaissance
+## 1. Reconnaissance
 Identified target machine IP address using:
 
 ```bash
