@@ -24,9 +24,9 @@ Identified target machine IP address using:
 
 ```bash
 ifconfig
----
+Leave it exactly like that.
 
-### 2. Connectivity Verification
+---connectivity Verification
 Verified network connectivity using:
 
 ```bash
