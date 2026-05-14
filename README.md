@@ -24,3 +24,12 @@ Identified target machine IP address using:
 
 ```bash
 ifconfig
+
+---
+
+### 1. Reconnaissance
+Identified target machine IP address using:
+
+```bash
+ifconfig
+
