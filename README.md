@@ -25,11 +25,7 @@ Identified target machine IP address using:
 ```bash
 ifconfig
 
----
+## Lab Environment
+A vulnerable Linux virtual machine was configured using VirtualBox for performing cybersecurity testing and vulnerability assessment.
 
-## 1. Reconnaissance
-Identified target machine IP address using:
-
-```bash
-ifconfig
 
