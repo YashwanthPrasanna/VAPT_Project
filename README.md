@@ -24,10 +24,3 @@ Identified target machine IP address using:
 
 ```bash
 ifconfig
-Leave it exactly like that.
-
----connectivity Verification
-Verified network connectivity using:
-
-```bash
-ping 192.168.56.101
