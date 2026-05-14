@@ -24,3 +24,18 @@ Identified target machine IP address using:
 
 ```bash
 ifconfig
+
+Leave it exactly like that.
+
+---
+
+# STEP 3 — NOW AFTER THAT ADD THIS EXACTLY
+
+COPY FROM BELOW:
+
+```md id="x9v1pk"
+### 2. Connectivity Verification
+Verified network connectivity using:
+
+```bash
+ping 192.168.56.101
